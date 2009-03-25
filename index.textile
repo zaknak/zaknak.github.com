@@ -1,2 +1,2 @@
-h1.foo
-h2.bar
+h1. foo
+h2. bar
