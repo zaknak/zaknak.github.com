@@ -1,6 +1,8 @@
 ---
 title: Home
-layout: wikistyle
+layout: default
 ---
-# zaknak
-## hoge
+zaknak.git.hub
+==============
+
+
